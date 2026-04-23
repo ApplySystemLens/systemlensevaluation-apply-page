@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>System Lens Evaluation - Tester Network</title>
+    <meta
+      name="description"
+      content="Find what others miss. Get paid to test. Join the System Lens Evaluation tester network."
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="min-h-screen bg-white text-slate-900">
+    <section class="border-b border-slate-200 bg-gradient-to-b from-slate-50 to-white">
+      <div class="mx-auto max-w-6xl px-6 py-20 lg:px-8">
+        <div class="grid gap-12 lg:grid-cols-2 lg:items-center">
+          <div>
+            <div class="inline-flex items-center rounded-full border border-slate-300 px-4 py-1 text-sm text-slate-700">
+              System Lens Evaluation Tester Network
+            </div>
+            <h1 class="mt-6 text-5xl font-semibold tracking-tight text-slate-950 sm:text-6xl">
+              Find what others miss. <br />
+              Get paid to test.
+            </h1>
+            <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-700">
+              Join our remote tester network and help evaluate apps, games, and interactive software. Most tests take less than an hour, beginners start at <span class="font-semibold">$15 (USD 15) per completed test</span>, and pay can increase as your feedback becomes more reliable and valuable. Payments can be made in USD or converted to your local currency via Wise.
+            </p>
+            <div class="mt-8 flex flex-wrap gap-4">
+              <a
+                href="https://systemlenstesters.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+                class="rounded-2xl bg-slate-950 px-6 py-3 text-sm font-medium text-white shadow-sm transition hover:opacity-90"
+              >
+                Sign Up to Become a Tester
+              </a>
+              <a
+                href="#how-it-works"
+                class="rounded-2xl border border-slate-300 px-6 py-3 text-sm font-medium text-slate-800 transition hover:bg-slate-50"
+              >
+                See How It Works
+              </a>
+            </div>
+            <div class="mt-8 grid gap-3 text-sm text-slate-600 sm:grid-cols-2">
+              <div class="rounded-2xl border border-slate-200 p-4">Remote and flexible</div>
+              <div class="rounded-2xl border border-slate-200 p-4">Most tests under 60 minutes</div>
+              <div class="rounded-2xl border border-slate-200 p-4">Complete within 24 hours after accepting</div>
+              <div class="rounded-2xl border border-slate-200 p-4">Higher pay for stronger feedback</div>
+            </div>
+          </div>
+
+          <div class="rounded-3xl border border-slate-200 bg-white p-8 shadow-xl shadow-slate-200/60">
+            <div class="rounded-2xl bg-slate-950 p-6 text-white">
+              <div class="text-sm uppercase tracking-[0.2em] text-slate-300">Typical starter assignment</div>
+              <div class="mt-4 text-4xl font-semibold">$15</div>
+              <div class="mt-2 text-slate-300">per completed beginner test</div>
+            </div>
+            <div class="mt-6 space-y-4 text-sm leading-7 text-slate-700">
+              <p>You choose which assignments to accept.</p>
+              <p>
+                Once you accept, you are expected to complete the test within 24 hours unless the assignment states a different timeline.
+              </p>
+              <p>
+                Testers that provide the most valuable feedback will be chosen for higher-paying assignments and more frequent work.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-6xl px-6 py-20 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-3xl font-semibold tracking-tight text-slate-950">Why join our tester network?</h2>
+        <p class="mt-4 text-lg leading-8 text-slate-700">
+          We are building a group of careful, dependable testers who can spot usability issues, confusing interactions, edge cases, and other problems that product teams need to understand before launch.
+        </p>
+      </div>
+      <div class="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+        <div class="rounded-3xl border border-slate-200 p-6 shadow-sm">
+          <h3 class="text-lg font-semibold text-slate-900">$15 per test to start</h3>
+          <p class="mt-3 text-sm leading-7 text-slate-700">
+            Beginner testers start at $15 (USD 15) per completed test, with higher pay available over time based on the clarity, usefulness, and reliability of your feedback.
+          </p>
+        </div>
+        <div class="rounded-3xl border border-slate-200 p-6 shadow-sm">
+          <h3 class="text-lg font-semibold text-slate-900">Less than an hour</h3>
+          <p class="mt-3 text-sm leading-7 text-slate-700">
+            Most assignments are designed to take under 60 minutes, so testing can fit into your normal routine without taking over your day.
+          </p>
+        </div>
+        <div class="rounded-3xl border border-slate-200 p-6 shadow-sm">
+          <h3 class="text-lg font-semibold text-slate-900">Fully remote</h3>
+          <p class="mt-3 text-sm leading-7 text-slate-700">
+            Complete assignments from home, on your own device, and on your own schedule—as long as accepted tests are submitted within 24 hours.
+          </p>
+        </div>
+        <div class="rounded-3xl border border-slate-200 p-6 shadow-sm">
+          <h3 class="text-lg font-semibold text-slate-900">Real experience</h3>
+          <p class="mt-3 text-sm leading-7 text-slate-700">
+            Gain hands-on experience reviewing software, identifying usability issues, and communicating observations clearly and professionally.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="how-it-works" class="border-y border-slate-200 bg-slate-50">
+      <div class="mx-auto max-w-6xl px-6 py-20 lg:px-8">
+        <div class="max-w-3xl">
+          <h2 class="text-3xl font-semibold tracking-tight text-slate-950">How it works</h2>
+          <p class="mt-4 text-lg leading-8 text-slate-700">
+            Our process is designed to be simple, flexible, and professional.
+          </p>
+        </div>
+        <div class="mt-10 grid gap-6 md:grid-cols-3">
+          <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+            <div class="text-sm font-medium text-slate-500">Step 1</div>
+            <h3 class="mt-2 text-xl font-semibold text-slate-900">Apply</h3>
+            <p class="mt-3 text-sm leading-7 text-slate-700">
+              Tell us about your devices, availability, language skills, and any experience with games, apps, or structured feedback.
+            </p>
+          </div>
+          <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+            <div class="text-sm font-medium text-slate-500">Step 2</div>
+            <h3 class="mt-2 text-xl font-semibold text-slate-900">Accept assignments</h3>
+            <p class="mt-3 text-sm leading-7 text-slate-700">
+              When a test matches your profile, you can choose whether to accept it. Once accepted, please complete it within 24 hours.
+            </p>
+          </div>
+          <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+            <div class="text-sm font-medium text-slate-500">Step 3</div>
+            <h3 class="mt-2 text-xl font-semibold text-slate-900">Get paid for useful feedback</h3>
+            <p class="mt-3 text-sm leading-7 text-slate-700">
+              Submit clear, specific observations and follow the instructions carefully. Strong testers may qualify for higher-paying opportunities over time.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-6xl px-6 py-20 lg:px-8">
+      <div class="grid gap-10 lg:grid-cols-[1.2fr_0.8fr]">
+        <div class="rounded-3xl border border-slate-200 p-8 shadow-sm">
+          <h2 class="text-3xl font-semibold tracking-tight text-slate-950">Payment and quality standards</h2>
+          <p class="mt-5 text-base leading-8 text-slate-700">
+            We want testers to feel confident that they will be paid fairly for completed work. When you follow the instructions, complete the assignment properly, and provide useful feedback, payment will be issued as promised. Payments can be made in USD or converted to your local currency via Wise, depending on your preference.
+          </p>
+          <p class="mt-5 text-base leading-8 text-slate-700">
+            To protect the quality of reporting for clients, submissions may be rejected and unpaid if a tester does not complete the requested tasks, misses the deadline after accepting an assignment, or submits feedback that is so generic or insubstantial that it cannot be used in a professional report.
+          </p>
+          <p class="mt-5 text-base leading-8 text-slate-700">
+            In practice, that means comments like “looks good,” “I liked it,” or similarly vague responses without specific observations usually will not qualify as acceptable deliverables.
+          </p>
+        </div>
+
+        <div class="rounded-3xl border border-slate-200 bg-slate-50 p-8 shadow-sm">
+          <h3 class="text-xl font-semibold text-slate-950">What we expect</h3>
+          <ul class="mt-5 space-y-4 text-sm leading-7 text-slate-700">
+            <li class="flex gap-3"><span class="mt-2 h-2 w-2 flex-none rounded-full bg-slate-900"></span><span>Follow all testing instructions and complete the requested tasks.</span></li>
+            <li class="flex gap-3"><span class="mt-2 h-2 w-2 flex-none rounded-full bg-slate-900"></span><span>Submit feedback that is specific, honest, and detailed enough to be useful in a professional report.</span></li>
+            <li class="flex gap-3"><span class="mt-2 h-2 w-2 flex-none rounded-full bg-slate-900"></span><span>Complete accepted assignments within 24 hours unless told otherwise.</span></li>
+            <li class="flex gap-3"><span class="mt-2 h-2 w-2 flex-none rounded-full bg-slate-900"></span><span>Use your own words rather than generic or repeated comments.</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-slate-950 text-white">
+      <div class="mx-auto max-w-6xl px-6 py-20 lg:px-8">
+        <div class="max-w-4xl rounded-3xl border border-slate-700 p-8">
+          <h2 class="text-3xl font-semibold tracking-tight">A useful title for your resume</h2>
+          <p class="mt-4 text-base leading-8 text-slate-300">
+            Testers who complete strong work can describe this experience as <span class="font-semibold text-white">Software Evaluation Analyst</span> on their resume, which presents the role in a clear and professional way.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="apply" class="mx-auto max-w-4xl px-6 py-20 lg:px-8">
+      <div class="rounded-3xl border border-slate-200 bg-white p-8 shadow-xl shadow-slate-200/60 sm:p-12">
+        <h2 class="text-3xl font-semibold tracking-tight text-slate-950">Ready to apply?</h2>
+        <p class="mt-4 text-base leading-8 text-slate-700">
+          When you are ready, submit your tester application through our signup site. We review applications based on the information provided there, and we may pause recruitment once we have enough qualified testers in the network.
+        </p>
+        <div class="mt-6 flex flex-wrap items-start gap-3 text-sm leading-7 text-slate-600">
+          <span class="rounded-full bg-slate-100 px-4 py-2">Remote</span>
+          <span class="rounded-full bg-slate-100 px-4 py-2">Flexible schedule</span>
+          <span class="rounded-full bg-slate-100 px-4 py-2">Beginner-friendly</span>
+          <span class="rounded-full bg-slate-100 px-4 py-2">Performance-based pay growth</span>
+        </div>
+        <a
+          href="https://systemlenstesters.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+          class="mt-8 inline-flex rounded-2xl bg-slate-950 px-6 py-3 text-sm font-medium text-white transition hover:opacity-90"
+        >
+          Go to Tester Signup
+        </a>
+      </div>
+    </section>
+  </body>
+</html>
